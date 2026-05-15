@@ -4714,20 +4714,26 @@
     }
   },
   "files": {
-    "data/Genes_Enfermedades_Neurologicas.csv": {
+    "data examples/Genes_Enfermedades_Neurologicas.csv": {
       "checksum": "772de5bb4d50e39213e0cf48726a16ca"
     },
-    "data/Genes_Enfermedades_Neurologicas.txt": {
+    "data examples/Genes_Enfermedades_Neurologicas.txt": {
       "checksum": "e450568de89bc6d66dc6a8bf25cc566b"
     },
     "global.R": {
       "checksum": "ef4ca129e21017d96bc2ae1e2a6e4528"
     },
+    "LICENSE": {
+      "checksum": "e62637ea8a114355b985fd86c9ffbd6e"
+    },
+    "README.md": {
+      "checksum": "8e597132bfe2b5e7fac6896c7aea7dcf"
+    },
     "server.R": {
-      "checksum": "58954468ef0f9bbde700c25524624e22"
+      "checksum": "c2419ecd144ccb43e915fb069b9924d3"
     },
     "ui.R": {
-      "checksum": "08972192944b03f0921b49da59c1ff61"
+      "checksum": "90226fdb9afaae664d6fad4944113e46"
     }
   },
   "users": null
